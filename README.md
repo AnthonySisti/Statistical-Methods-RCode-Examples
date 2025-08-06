@@ -1,2 +1,3 @@
-# Workflows-for-BART-Based-Models
-Different Bayesian Additive Regression Tree Based Models and R code to accompany them
+# Statistical Methods R-Code Examples
+
+Each folder in this repository will correspond to a different category of methods, R-Code examples for the methods can be found inside the folders
